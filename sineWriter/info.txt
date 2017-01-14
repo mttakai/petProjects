@@ -1,0 +1,7 @@
+Exercises in Python
+by Marjorie Takai
+
+Created in 2017, Jan 06
+
+create a wave sine and record as a wav file
+
